@@ -1,2 +1,2 @@
-# Aplicação Java Spring Boot, Docker, Tracing(Jaegar), monitoramento com Prometheus e Grafana
-### Gestão de Vendas
+# Gestão de Vendas
+### aplicação Java Spring Boot, Docker, Tracing(Jaegar), monitoramento com Prometheus e Grafana.
