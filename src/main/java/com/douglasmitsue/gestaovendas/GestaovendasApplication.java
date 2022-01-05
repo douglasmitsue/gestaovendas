@@ -11,7 +11,7 @@ não utilize o package principal
 */
 @EntityScan(basePackages = {"com.douglasmitsue.gestaovendas.entidades"})
 @EnableJpaRepositories(basePackages = {"com.douglasmitsue.gestaovendas.repositorio"})
-@ComponentScan(basePackages = {"com.douglasmitsue.gestaovendas.servico", "com.douglasmitsue.gestaovendas.controlador"})
+@ComponentScan(basePackages = {"com.douglasmitsue.gestaovendas.servico", "com.douglasmitsue.gestaovendas.controlador", "com.douglasmitsue.gestaovendas.excecao"})
 @SpringBootApplication
 public class GestaovendasApplication {
 
